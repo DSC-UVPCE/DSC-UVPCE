@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DSC-UVPCE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!---
 DSC-UVPCE/DSC-UVPCE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
